@@ -1,4 +1,6 @@
 import './globals.css'
+import 'bootstrap/dist/css/bootstrap.min.css'; // Include Bootstrap CSS
+import 'font-awesome/css/font-awesome.min.css'; // Include Font Awesome CSS
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
